@@ -14,7 +14,7 @@ public class Main3 {
         //EN ESTA PARTE EL PROGRAMA NOS PERMITIRA CREAR PRODUCTOS DE FORMA ILIMITADA
         //CON EL OBJETIVO DE VER COMO CADA VEZ QUE AGREGAMOS UNO NUEVO EL ARCHIVO CON EXTENSION: .XML
         //SE ACTUALIZARA.
-
+/*
         while (true) {
             Producto producto = new Producto();
             producto.setName(JOptionPane.showInputDialog("ingrese el nombre del producto"));
@@ -22,6 +22,8 @@ public class Main3 {
             JOptionPane.showMessageDialog(null, "Producto agregado");
             Persistencia.guardarRecursoBancoXML(tienda);
         }
+        */
+
 
 
     }
